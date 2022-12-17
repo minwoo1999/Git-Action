@@ -24,7 +24,7 @@
 * commit ,pull ,run 등등 파이프라인 작성
 ![image](https://user-images.githubusercontent.com/79193811/208234539-e428a9eb-9ebd-4ad5-b759-6ba3664b8af6.png)
 
-3.cron 설정으로 주기적으로 자동으로 크롤링한 파일 업데이트
+### 3.cron 설정으로 주기적으로 자동으로 크롤링한 파일 업데이트
 
 
 * on:
